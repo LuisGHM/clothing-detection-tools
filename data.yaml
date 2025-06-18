@@ -1,0 +1,15 @@
+train: C:\Styles.AI\identification 2.0\data\train
+val: C:\Styles.AI\identification 2.0\data\valid
+
+nc: 86
+names: [
+  'tShirts', 'jeans', 'sweaters', 'hoodies', 'longSleeveTShirts', 'sneakers', 'zipUpHoodies', 'waist', 'vests', 'varsityJackets',
+  'uggBoots', 'truckerJackets', 'trousers', 'trenchCoats', 'trackPants', 'tote', 'tanksCamis', 'tShirtDresses', 'sweatshirts',
+  'sweatshirtDresses', 'sweaterVests', 'sweaterDresses', 'suspenderDresses', 'sunHats', 'suitcases', 'sportsTop', 'sportsShoes',
+  'sportsJackets', 'slipOns', 'slides', 'sleevelessTShirts', 'shoulder', 'shorts', 'shirts', 'shirtDresses', 'shearlingCoats',
+  'sandals', 'sandalHeels', 'poloShirts', 'partyDresses', 'parkas', 'mules', 'muleHeels', 'miniSkirts', 'miniDresses', 'midiSkirts',
+  'maxiSkirts', 'loafersLoaferMules', 'leggings', 'jumpsuits', 'jackets', 'jacketDresses', 'hikingShoes', 'heels', 'hats',
+  'furCoats', 'friendJackets', 'flatShoes', 'fedoras', 'duffel', 'dressPants', 'drawstring', 'downJackets', 'dayDresses', 'crossbody',
+  'cropTops', 'combatBoots', 'coats', 'clutch', 'cardigans', 'canvas', 'briefcases', 'boots', 'bodysuits', 'blousons', 'blouses',
+  'blazers', 'bikerJackets', 'berets', 'beanies', 'backpacks', 'bermudaShorts', 'pantalonaPants', 'dungarees', 'tailoredPants', 'tailoredShorts'
+]
