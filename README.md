@@ -147,10 +147,6 @@ We welcome contributions! Please feel free to:
 - Submit pull requests
 - Improve documentation
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - Developed by the **Styles.AI** team
@@ -159,7 +155,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Styles.AI** - [Website](https://styles.ai) | [LinkedIn](https://linkedin.com/company/styles-ai)
+- **Styles.AI** - [Website](https://www.stylestia.com.br/)
 - Questions? Open an issue or reach out to our team
 
 ---
